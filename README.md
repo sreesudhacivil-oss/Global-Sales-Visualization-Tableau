@@ -30,7 +30,7 @@ It demonstrates how Tableau can be used for **interactive data visualization**, 
 ---
 
 ##  Data Used
-- **Global Sales & Profitability Data** from Excel.  
+- **Global Sales & Profitability Data** (CSV file).  
 - Fields include: Product Category, Region, Country, Sales Channel, Time (Quarter/Month), Sales, Profit.  
 
 ---
